@@ -19,3 +19,4 @@ To complete the assignment, you are free to use any technique or algorithm in th
 5. Radford, A., Kim, J.W., et al.: Learning transferable visual models from natural language supervision. ICML (2021).
 6. Zhou, K., Yang, J., et al.: Learning to prompt for vision-language models. IJCV (2022).
 7. Zhou, K., Yang, J., et al.: Conditional prompt learning for vision-language models. CVPR (2022).
+
